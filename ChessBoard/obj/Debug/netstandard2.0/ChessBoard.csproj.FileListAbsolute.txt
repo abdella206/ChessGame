@@ -1,0 +1,9 @@
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\bin\Debug\netstandard2.0\ChessBoard.deps.json
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\bin\Debug\netstandard2.0\ChessBoard.dll
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\bin\Debug\netstandard2.0\ChessBoard.pdb
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.csprojAssemblyReference.cache
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.AssemblyInfo.cs
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.dll
+C:\Users\v-fabdella\source\repos\ChessGame\ChessBoard\obj\Debug\netstandard2.0\ChessBoard.pdb
